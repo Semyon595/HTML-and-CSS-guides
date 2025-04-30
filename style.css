@@ -1,4 +1,4 @@
-button-1 {
+.button-1 {
     color: #232323;
     background: transparent;
     border: 1px solid #232323;
@@ -10,7 +10,7 @@ button-1 {
     transition: .2s ease-in-out;
     cursor: pointer;
 }
-button-1:before {
+.button-1:before {
     content: "";
     position: absolute;
     top: 5px;
@@ -22,6 +22,6 @@ button-1:before {
     transition: .25s ease;
     transform: translate(0, 0);
 }
-button-1:hover:before {
+.button-1:hover:before {
     transform: translate(4px, 4px);
 }
