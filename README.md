@@ -1,1 +1,2 @@
-# button-animation
+# HTML and CSS guides (Гайды по HTML и CSS)
+Добро пожаловать на мой маленький проект с гайдами и простот интересными вещами по HTML и CSS
